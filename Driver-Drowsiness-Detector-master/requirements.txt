@@ -1,0 +1,6 @@
+numpy
+dlib==19.16.0
+pygame
+imutils==0.5.1
+opencv_python
+scipy
