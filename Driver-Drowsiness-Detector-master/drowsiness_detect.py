@@ -2,6 +2,7 @@
 calculations. Uses webcam video feed as input.'''
 
 #Import necessary libraries
+#pip install opencv-contrib-python
 from scipy.spatial import distance
 from imutils import face_utils
 import numpy as np
